@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: ProPhoto Local WP Migrate Helper
-Plugin URI: https://github.com/netrivet/wpm-local-helper
+Plugin URI: https://github.com/downshiftorg/wpm-local-helper
 Author URI: https://pro.photo
 Author: ProPhoto
 Version: 0.1
